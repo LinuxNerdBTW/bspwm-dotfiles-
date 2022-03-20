@@ -1,0 +1,1516 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///usr/share/wallpapers" added="2022-03-01T09:25:10.332308Z" modified="2022-03-01T09:25:10.332315Z" visited="2022-03-01T09:25:10.332310Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="nitrogen" exec="&apos;nitrogen %u&apos;" modified="2022-03-01T09:25:10.332311Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/thelinuxguy/Pictures/Wallpaper/1.jpg" added="2022-03-01T09:42:38.004599Z" modified="2022-03-01T09:42:38.255182Z" visited="2022-03-01T09:42:38.004601Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;gio open %u&apos;" modified="2022-03-01T09:42:38.255175Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/thelinuxguy/Pictures/Wallpaper/2.jpg" added="2022-03-01T09:42:44.465925Z" modified="2022-03-01T09:42:44.716497Z" visited="2022-03-01T09:42:44.465928Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;gio open %u&apos;" modified="2022-03-01T09:42:44.716492Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/thelinuxguy/Pictures/Wallpaper/3.jpg" added="2022-03-01T09:42:49.665004Z" modified="2022-03-01T09:42:49.915448Z" visited="2022-03-01T09:42:49.665007Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;gio open %u&apos;" modified="2022-03-01T09:42:49.915439Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/thelinuxguy/Pictures/Wallpaper/4.jpg" added="2022-03-01T09:42:54.829387Z" modified="2022-03-01T09:42:55.080179Z" visited="2022-03-01T09:42:54.829390Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;gio open %u&apos;" modified="2022-03-01T09:42:55.080170Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/thelinuxguy/Pictures/Wallpaper/5.jpg" added="2022-03-01T09:42:59.556611Z" modified="2022-03-01T09:42:59.806731Z" visited="2022-03-01T09:42:59.556614Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;gio open %u&apos;" modified="2022-03-01T09:42:59.806727Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/thelinuxguy/Pictures/Wallpaper/6.jpg" added="2022-03-01T09:43:03.720733Z" modified="2022-03-01T09:43:03.971236Z" visited="2022-03-01T09:43:03.720736Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;gio open %u&apos;" modified="2022-03-01T09:43:03.971227Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/thelinuxguy/Pictures/Wallpaper/7.jpg" added="2022-03-01T09:43:11.184018Z" modified="2022-03-01T09:43:11.434920Z" visited="2022-03-01T09:43:11.184020Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;gio open %u&apos;" modified="2022-03-01T09:43:11.434911Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/thelinuxguy/Pictures/Wallpaper/8.jpg" added="2022-03-01T09:43:14.994221Z" modified="2022-03-01T09:43:15.245000Z" visited="2022-03-01T09:43:14.994223Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;gio open %u&apos;" modified="2022-03-01T09:43:15.244991Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/thelinuxguy/Pictures/Wallpaper/9.jpg" added="2022-03-01T09:45:16.520890Z" modified="2022-03-01T09:45:16.772046Z" visited="2022-03-01T09:45:16.520893Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;gio open %u&apos;" modified="2022-03-01T09:45:16.772042Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/thelinuxguy/Pictures/Wallpaper/10.jpg" added="2022-03-01T09:45:23.716159Z" modified="2022-03-01T09:45:23.967106Z" visited="2022-03-01T09:45:23.716161Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;gio open %u&apos;" modified="2022-03-01T09:45:23.967098Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/thelinuxguy/Pictures/Wallpaper/11.jpg" added="2022-03-01T09:45:28.856362Z" modified="2022-03-01T09:45:29.106928Z" visited="2022-03-01T09:45:28.856365Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;gio open %u&apos;" modified="2022-03-01T09:45:29.106924Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/thelinuxguy/Pictures/Wallpaper/12.jpg" added="2022-03-01T09:45:35.979010Z" modified="2022-03-01T09:45:36.229544Z" visited="2022-03-01T09:45:35.979013Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;gio open %u&apos;" modified="2022-03-01T09:45:36.229535Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/thelinuxguy/Pictures/Wallpaper/13.jpg" added="2022-03-01T09:45:40.559787Z" modified="2022-03-01T09:45:40.810913Z" visited="2022-03-01T09:45:40.559790Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;gio open %u&apos;" modified="2022-03-01T09:45:40.810903Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/thelinuxguy/Pictures/Wallpaper/14.jpg" added="2022-03-01T09:45:44.785994Z" modified="2022-03-01T09:45:45.036390Z" visited="2022-03-01T09:45:44.785997Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;gio open %u&apos;" modified="2022-03-01T09:45:45.036386Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/thelinuxguy/Pictures/Wallpaper/15.jpg" added="2022-03-01T09:45:50.277949Z" modified="2022-03-01T09:45:50.528422Z" visited="2022-03-01T09:45:50.277951Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;gio open %u&apos;" modified="2022-03-01T09:45:50.528417Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/thelinuxguy/Pictures/Wallpaper/16.jpg" added="2022-03-01T09:45:56.222353Z" modified="2022-03-01T09:45:56.472818Z" visited="2022-03-01T09:45:56.222355Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;gio open %u&apos;" modified="2022-03-01T09:45:56.472813Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/thelinuxguy/Pictures/Wallpaper/17.jpg" added="2022-03-01T09:46:01.664884Z" modified="2022-03-01T09:46:01.915314Z" visited="2022-03-01T09:46:01.664887Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;gio open %u&apos;" modified="2022-03-01T09:46:01.915305Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/thelinuxguy/Pictures/Wallpaper/18.jpg" added="2022-03-01T09:46:07.293704Z" modified="2022-03-01T09:46:07.545045Z" visited="2022-03-01T09:46:07.293706Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;gio open %u&apos;" modified="2022-03-01T09:46:07.545036Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/thelinuxguy/Pictures/Wallpaper/19.jpg" added="2022-03-01T09:46:11.813734Z" modified="2022-03-01T09:46:12.064653Z" visited="2022-03-01T09:46:11.813737Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;gio open %u&apos;" modified="2022-03-01T09:46:12.064644Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/thelinuxguy/Pictures/Wallpaper/20.jpg" added="2022-03-01T09:46:16.863225Z" modified="2022-03-01T09:46:17.099956Z" visited="2022-03-01T09:46:16.863227Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;gio open %u&apos;" modified="2022-03-01T09:46:17.099948Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/thelinuxguy/Pictures/Wallpaper/21.jpg" added="2022-03-01T09:46:21.949361Z" modified="2022-03-01T09:46:22.199958Z" visited="2022-03-01T09:46:21.949363Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;gio open %u&apos;" modified="2022-03-01T09:46:22.199948Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/thelinuxguy/Pictures/Wallpaper/22.jpg" added="2022-03-01T09:46:27.855538Z" modified="2022-03-01T09:46:28.106569Z" visited="2022-03-01T09:46:27.855541Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;gio open %u&apos;" modified="2022-03-01T09:46:28.106560Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/thelinuxguy/Pictures/Wallpaper" added="2022-03-01T09:46:48.707903Z" modified="2022-03-01T09:46:48.707912Z" visited="2022-03-01T09:46:48.707904Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="nitrogen" exec="&apos;nitrogen %u&apos;" modified="2022-03-01T09:46:48.707907Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/thelinuxguy/Pictures" added="2022-03-01T12:50:07.294043Z" modified="2022-03-01T12:50:07.294052Z" visited="2022-03-01T12:50:07.294045Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Screenshot" exec="&apos;gnome-screenshot %u&apos;" modified="2022-03-01T12:50:07.294048Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/thelinuxguy/Pictures/Screenshot%20from%202022-03-01%2018-34-52.png" added="2022-03-01T12:50:11.092262Z" modified="2022-03-01T12:50:11.092271Z" visited="2022-03-01T12:50:11.092264Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNOME Screenshot" exec="&apos;brave %u&apos;" modified="2022-03-01T12:50:11.092267Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/Sweet-Dark.tar.xz" added="2022-03-01T13:02:49.655373Z" modified="2022-03-01T13:02:49.927589Z" visited="2022-03-01T13:02:49.655375Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;gio open %u&apos;" modified="2022-03-01T13:02:49.927584Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/thelinuxguy/Downloads/Sweet-Dark.tar.xz" added="2022-03-01T13:03:08.136051Z" modified="2022-03-01T13:03:08.386261Z" visited="2022-03-01T13:03:08.136053Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;gio open %u&apos;" modified="2022-03-01T13:03:08.386255Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/thelinuxguy/Downloads/candy-icons.tar.xz" added="2022-03-01T13:06:44.539001Z" modified="2022-03-01T13:06:44.789208Z" visited="2022-03-01T13:06:44.539003Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;gio open %u&apos;" modified="2022-03-01T13:06:44.789203Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/thelinuxguy/Downloads/forest.zip" added="2022-03-01T13:18:23.741418Z" modified="2022-03-01T13:18:23.991071Z" visited="2022-03-01T13:18:23.741420Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;gio open %u&apos;" modified="2022-03-01T13:18:23.991067Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/thelinuxguy/Downloads/Fluent-dark-compact.tar.xz" added="2022-03-01T14:51:19.219265Z" modified="2022-03-01T14:51:19.469553Z" visited="2022-03-01T14:51:19.219267Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;gio open %u&apos;" modified="2022-03-01T14:51:19.469549Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/thelinuxguy/Downloads/Layan-dark.tar.xz" added="2022-03-01T14:51:37.192736Z" modified="2022-03-01T14:51:37.443693Z" visited="2022-03-01T14:51:37.192738Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;gio open %u&apos;" modified="2022-03-01T14:51:37.443685Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/thelinuxguy/Downloads/Nordic-darker.tar.xz" added="2022-03-01T14:52:04.580363Z" modified="2022-03-01T14:52:04.831492Z" visited="2022-03-01T14:52:04.580364Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;gio open %u&apos;" modified="2022-03-01T14:52:04.831484Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/thelinuxguy/Downloads/lab_TheLinuxGuy001.ovpn" added="2022-03-01T21:55:25.150158Z" modified="2022-03-01T21:55:25.397427Z" visited="2022-03-01T21:55:25.150161Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;gio open %u&apos;" modified="2022-03-01T21:55:25.397423Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/thelinuxguy/.config/alacritty.yml" added="2022-03-02T06:16:19.028337Z" modified="2022-03-02T06:16:19.278585Z" visited="2022-03-02T06:16:19.028339Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;gio open %u&apos;" modified="2022-03-02T06:16:19.278582Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/thelinuxguy/.config/bspwm/bin/select_vpn" added="2022-03-02T11:34:26.124217Z" modified="2022-03-02T12:36:06.370052Z" visited="2022-03-02T11:34:26.124220Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2022-03-02T12:36:06.370047Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/unixporn/Pictures/wallpapers/23.jpg" added="2022-03-03T14:15:53.465775Z" modified="2022-03-03T14:15:53.716079Z" visited="2022-03-03T14:15:53.465778Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;gio open %u&apos;" modified="2022-03-03T14:15:53.716070Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/unixporn/Pictures/wallpapers/24.jpg" added="2022-03-03T14:16:02.212626Z" modified="2022-03-03T14:16:02.462803Z" visited="2022-03-03T14:16:02.212629Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;gio open %u&apos;" modified="2022-03-03T14:16:02.462798Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/unixporn/Pictures/wallpapers/25.jpg" added="2022-03-03T14:17:08.525111Z" modified="2022-03-03T14:17:08.776201Z" visited="2022-03-03T14:17:08.525113Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;gio open %u&apos;" modified="2022-03-03T14:17:08.776195Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/unixporn/Pictures/wallpapers/26.jpg" added="2022-03-03T14:17:15.028261Z" modified="2022-03-03T14:17:15.278610Z" visited="2022-03-03T14:17:15.028264Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;gio open %u&apos;" modified="2022-03-03T14:17:15.278606Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/unixporn/Pictures/wallpapers/27.jpg" added="2022-03-03T14:17:20.577055Z" modified="2022-03-03T14:17:20.827916Z" visited="2022-03-03T14:17:20.577058Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;gio open %u&apos;" modified="2022-03-03T14:17:20.827906Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/unixporn/Pictures/wallpapers/28.jpg" added="2022-03-03T14:17:27.290699Z" modified="2022-03-04T11:18:32.642543Z" visited="2022-03-03T14:17:27.290702Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2022-03-04T11:18:32.642539Z" count="3"/>
+          <bookmark:application name="com.obsproject.Studio" exec="&apos;gio open %u&apos;" modified="2022-03-04T11:18:32.574195Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/unixporn/Pictures/Screenshot%20from%202022-03-03%2020-05-43.png" added="2022-03-03T14:20:51.035881Z" modified="2022-03-03T14:20:51.035890Z" visited="2022-03-03T14:20:51.035882Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNOME Screenshot" exec="&apos;brave %u&apos;" modified="2022-03-03T14:20:51.035887Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/unixporn/Pictures/Screenshot%20from%202022-03-03%2020-06-02.png" added="2022-03-03T14:21:07.567490Z" modified="2022-03-03T14:24:58.511857Z" visited="2022-03-03T14:21:07.567492Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNOME Screenshot" exec="&apos;brave %u&apos;" modified="2022-03-03T14:21:07.567497Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2022-03-03T14:24:58.511852Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/unixporn/Pictures/English%20HW/274233590_164477695906174_6677805212743002368_n.jpg" added="2022-03-03T14:35:53.255198Z" modified="2022-03-03T14:35:53.505945Z" visited="2022-03-03T14:35:53.255200Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;gio open %u&apos;" modified="2022-03-03T14:35:53.505941Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/unixporn/Pictures/English%20HW/274481965_164477662572844_5986327305913439884_n.jpg" added="2022-03-03T14:36:00.760602Z" modified="2022-03-03T14:36:01.011535Z" visited="2022-03-03T14:36:00.760604Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;gio open %u&apos;" modified="2022-03-03T14:36:01.011529Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/unixporn/Pictures/English%20HW/274243038_164477719239505_6566652256129250001_n.jpg" added="2022-03-03T14:36:08.333088Z" modified="2022-03-03T14:36:08.584152Z" visited="2022-03-03T14:36:08.333090Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;gio open %u&apos;" modified="2022-03-03T14:36:08.584147Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/unixporn/Pictures/English%20HW/274237841_164477779239499_5070697995916500979_n.jpg" added="2022-03-03T14:36:16.217101Z" modified="2022-03-03T14:36:16.467029Z" visited="2022-03-03T14:36:16.217103Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;gio open %u&apos;" modified="2022-03-03T14:36:16.467023Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/unixporn/Pictures/English%20HW/274467844_164477749239502_5568575012069476023_n.jpg" added="2022-03-03T14:36:23.064363Z" modified="2022-03-03T14:36:23.315312Z" visited="2022-03-03T14:36:23.064364Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;gio open %u&apos;" modified="2022-03-03T14:36:23.315306Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/unixporn/Pictures/English%20HW/274233590_164477695906174_6677805212743002368_n%20(1).jpg" added="2022-03-03T14:36:29.462729Z" modified="2022-03-03T14:36:29.713601Z" visited="2022-03-03T14:36:29.462731Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;gio open %u&apos;" modified="2022-03-03T14:36:29.713596Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/unixporn/Pictures/English%20HW/274481965_164477662572844_5986327305913439884_n%20(1).jpg" added="2022-03-03T14:36:35.436998Z" modified="2022-03-03T14:36:35.687282Z" visited="2022-03-03T14:36:35.437000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;gio open %u&apos;" modified="2022-03-03T14:36:35.687276Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/unixporn/Pictures/edit/g1150.png" added="2022-03-04T11:41:34.770863Z" modified="2022-03-04T11:41:34.797292Z" visited="2022-03-04T11:41:34.770865Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="com.obsproject.Studio" exec="&apos;gio open %u&apos;" modified="2022-03-04T11:41:34.770869Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2022-03-04T11:41:34.797284Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/unixporn/Videos/REC" added="2022-03-04T11:45:00.299844Z" modified="2022-03-04T11:45:00.332003Z" visited="2022-03-04T11:45:00.299846Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="com.obsproject.Studio" exec="&apos;gio open %u&apos;" modified="2022-03-04T11:45:00.299852Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2022-03-04T11:45:00.331997Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/unixporn/Videos/Edited/Java%20Error%20Fix%20Burp%20Installation%20on%20Manjaroo%20Linux%20.mp4" added="2022-03-04T14:03:59.675874Z" modified="2022-03-04T14:03:59.698691Z" visited="2022-03-04T14:03:59.675876Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2022-03-04T14:03:59.698686Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/unixporn/Downloads/spotify-tui-linux.tar.gz" added="2022-03-05T04:40:34.723546Z" modified="2022-03-05T04:40:34.974299Z" visited="2022-03-05T04:40:34.723548Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;gio open %u&apos;" modified="2022-03-05T04:40:34.974295Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/unixporn/Downloads/cacert.der" added="2022-03-05T05:04:44.384879Z" modified="2022-03-05T05:06:22.877206Z" visited="2022-03-05T05:04:44.384881Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-x509-ca-cert"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2022-03-05T05:06:22.877200Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/unixporn/Downloads/Feminist_dalit_organization_fedo.doc" added="2022-03-05T06:55:14.690711Z" modified="2022-03-05T06:55:14.941270Z" visited="2022-03-05T06:55:14.690713Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;gio open %u&apos;" modified="2022-03-05T06:55:14.941265Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/unixporn/Downloads/Ramme-3.2.5.tar.gz" added="2022-03-06T05:52:11.883722Z" modified="2022-03-06T05:52:12.133170Z" visited="2022-03-06T05:52:11.883723Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;gio open %u&apos;" modified="2022-03-06T05:52:12.133164Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/unixporn/Downloads/lab_TheLinuxGuy001.ovpn" added="2022-03-07T14:51:09.991125Z" modified="2022-03-07T14:51:09.991138Z" visited="2022-03-07T14:51:09.991127Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2022-03-07T14:51:09.991132Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/unixporn/Downloads/RouterSpace.apk" added="2022-03-08T15:07:54.926582Z" modified="2022-03-08T15:07:54.926590Z" visited="2022-03-08T15:07:54.926584Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.android.package-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2022-03-08T15:07:54.926587Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mangal/Pictures/wallpapers" added="2022-03-10T12:44:14.284360Z" modified="2022-03-15T22:52:04.953436Z" visited="2022-03-10T12:44:14.284362Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="nitrogen" exec="&apos;nitrogen %u&apos;" modified="2022-03-15T14:42:52.395862Z" count="2"/>
+          <bookmark:application name="xfdesktop-settings" exec="&apos;xfdesktop-settings %u&apos;" modified="2022-03-15T22:52:04.953431Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mangal/Downloads/JetBrainsMono.zip" added="2022-03-10T13:44:12.945382Z" modified="2022-03-10T13:44:12.945392Z" visited="2022-03-10T13:44:12.945384Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2022-03-10T13:44:12.945388Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mangal/Downloads/Iosevka.zip" added="2022-03-10T13:49:19.950439Z" modified="2022-03-10T13:49:19.950451Z" visited="2022-03-10T13:49:19.950442Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2022-03-10T13:49:19.950446Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mangal/Downloads/FiraMono.zip" added="2022-03-10T13:50:01.666344Z" modified="2022-03-10T13:50:01.666353Z" visited="2022-03-10T13:50:01.666346Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2022-03-10T13:50:01.666349Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mangal/Downloads/FiraCode.zip" added="2022-03-10T13:50:16.582905Z" modified="2022-03-10T13:50:16.582916Z" visited="2022-03-10T13:50:16.582908Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2022-03-10T13:50:16.582911Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mangal/Downloads/FantasqueSansMono.zip" added="2022-03-10T13:50:34.382721Z" modified="2022-03-10T13:50:34.382732Z" visited="2022-03-10T13:50:34.382723Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2022-03-10T13:50:34.382727Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mangal/Pictures/Screenshot%20from%202022-03-10%2021-44-53.png" added="2022-03-10T16:00:05.886074Z" modified="2022-03-10T16:01:26.787058Z" visited="2022-03-10T16:00:05.886076Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNOME Screenshot" exec="&apos;brave %u&apos;" modified="2022-03-10T16:00:05.886080Z" count="1"/>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2022-03-10T16:01:26.787052Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mangal/Pictures/230187915_531218328118286_7418678171358485295_n.jpg" added="2022-03-11T08:52:48.227059Z" modified="2022-03-11T08:52:48.227071Z" visited="2022-03-11T08:52:48.227061Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2022-03-11T08:52:48.227066Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mangal/Pictures/Screenshot%20from%202022-03-11%2017-49-43.png" added="2022-03-11T12:04:50.075770Z" modified="2022-03-11T12:05:04.558061Z" visited="2022-03-11T12:04:50.075772Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNOME Screenshot" exec="&apos;brave %u&apos;" modified="2022-03-11T12:04:50.075776Z" count="1"/>
+          <bookmark:application name="electron" exec="&apos;electron %u&apos;" modified="2022-03-11T12:05:04.558054Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mangal/Downloads/icons/Colloid-grey.tar.xz" added="2022-03-11T12:35:31.947973Z" modified="2022-03-11T12:35:31.947983Z" visited="2022-03-11T12:35:31.947975Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-xz-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2022-03-11T12:35:31.947978Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mangal/Downloads/icons/01-Colloid.tar.xz" added="2022-03-11T12:35:42.310624Z" modified="2022-03-11T12:35:42.310634Z" visited="2022-03-11T12:35:42.310625Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-xz-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2022-03-11T12:35:42.310629Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mangal/Downloads/icons/Colloid-purple.tar.xz" added="2022-03-11T12:36:04.619187Z" modified="2022-03-11T12:36:04.619197Z" visited="2022-03-11T12:36:04.619189Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-xz-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2022-03-11T12:36:04.619193Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mangal/Downloads/icons/McMuse-circle-yellow.tar.xz" added="2022-03-11T12:36:54.760017Z" modified="2022-03-11T12:36:54.760028Z" visited="2022-03-11T12:36:54.760019Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-xz-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2022-03-11T12:36:54.760023Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mangal/Downloads/icons/McMuse-circle-grey.tar.xz" added="2022-03-11T12:37:07.290192Z" modified="2022-03-11T12:37:07.290202Z" visited="2022-03-11T12:37:07.290194Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-xz-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2022-03-11T12:37:07.290197Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mangal/Pictures/Screenshot%20from%202022-03-11%2019-15-25.png" added="2022-03-11T13:30:35.236186Z" modified="2022-03-11T13:30:43.032415Z" visited="2022-03-11T13:30:35.236188Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNOME Screenshot" exec="&apos;brave %u&apos;" modified="2022-03-11T13:30:35.236191Z" count="1"/>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2022-03-11T13:30:43.032407Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mangal/bin/pw" added="2022-03-11T15:16:50.656628Z" modified="2022-03-11T15:16:50.656638Z" visited="2022-03-11T15:16:50.656630Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2022-03-11T15:16:50.656633Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mangal/Downloads/kernel/linux-hardened-5.15.27-hardened1.patch" added="2022-03-11T22:21:46.235570Z" modified="2022-03-11T22:21:46.235583Z" visited="2022-03-11T22:21:46.235572Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-patch"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2022-03-11T22:21:46.235577Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mangal/Downloads/kernel/linux-hardened-5.15.27-hardened1.patch.sig" added="2022-03-11T22:21:55.962891Z" modified="2022-03-11T22:21:55.962902Z" visited="2022-03-11T22:21:55.962893Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pgp-signature"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2022-03-11T22:21:55.962897Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mangal/Pictures/wallpapers/29.jpg" added="2022-03-13T14:03:02.185475Z" modified="2022-03-15T22:30:44.321554Z" visited="2022-03-13T14:03:02.185478Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2022-03-15T22:30:44.321549Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mangal/Pictures/wallpapers/30.jpg" added="2022-03-13T14:03:38.770402Z" modified="2022-03-15T22:30:53.038386Z" visited="2022-03-13T14:03:38.770404Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2022-03-15T22:30:53.038378Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mangal/Pictures/wallpapers/31.jpg" added="2022-03-13T14:03:46.332487Z" modified="2022-03-15T22:30:57.266152Z" visited="2022-03-13T14:03:46.332490Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2022-03-15T22:30:57.266143Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mangal/Pictures/wallpapers/32.jpg" added="2022-03-13T14:07:27.048999Z" modified="2022-03-15T22:31:05.491340Z" visited="2022-03-13T14:07:27.049002Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2022-03-15T22:31:05.491331Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mangal/Pictures/wallpapers/33.jpg" added="2022-03-13T14:07:32.866164Z" modified="2022-03-15T22:31:09.906424Z" visited="2022-03-13T14:07:32.866166Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2022-03-15T22:31:09.906418Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mangal/Pictures/wallpapers/34.jpg" added="2022-03-13T14:07:37.790587Z" modified="2022-03-15T22:31:14.090601Z" visited="2022-03-13T14:07:37.790589Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2022-03-15T22:31:14.090597Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mangal/Pictures/English%20HW/1/275532351_482950026529524_8042606644058488917_n.jpg" added="2022-03-13T15:30:16.179977Z" modified="2022-03-13T15:30:16.179991Z" visited="2022-03-13T15:30:16.179979Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2022-03-13T15:30:16.179984Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mangal/Pictures/English%20HW/1/2.jpg" added="2022-03-13T15:30:31.500543Z" modified="2022-03-13T15:30:31.500560Z" visited="2022-03-13T15:30:31.500545Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2022-03-13T15:30:31.500554Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mangal/Pictures/English%20HW/1/3.jpg" added="2022-03-13T15:30:48.944682Z" modified="2022-03-13T15:30:48.944697Z" visited="2022-03-13T15:30:48.944684Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2022-03-13T15:30:48.944690Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mangal/Pictures/English%20HW/1/4.jpg" added="2022-03-13T15:31:01.644020Z" modified="2022-03-13T15:31:01.644039Z" visited="2022-03-13T15:31:01.644022Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2022-03-13T15:31:01.644031Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mangal/Pictures/English%20HW/1/5.jpg" added="2022-03-13T15:31:14.893783Z" modified="2022-03-13T15:31:14.893797Z" visited="2022-03-13T15:31:14.893785Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2022-03-13T15:31:14.893790Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mangal/Pictures/English%20HW/1/6.jpg" added="2022-03-13T15:31:28.005181Z" modified="2022-03-13T15:31:28.005194Z" visited="2022-03-13T15:31:28.005184Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2022-03-13T15:31:28.005188Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mangal/Pictures/English%20HW/1/7.jpg" added="2022-03-13T15:31:41.235393Z" modified="2022-03-13T15:31:41.235442Z" visited="2022-03-13T15:31:41.235396Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2022-03-13T15:31:41.235435Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mangal/Pictures/English%20HW/1/8.jpg" added="2022-03-13T15:31:53.497477Z" modified="2022-03-13T15:31:53.497729Z" visited="2022-03-13T15:31:53.497480Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2022-03-13T15:31:53.497720Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mangal/Pictures/Screenshot%20from%202022-03-13%2023-11-10.png" added="2022-03-13T17:26:14.247091Z" modified="2022-03-13T17:26:14.247101Z" visited="2022-03-13T17:26:14.247093Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNOME Screenshot" exec="&apos;brave %u&apos;" modified="2022-03-13T17:26:14.247097Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mangal/Videos/video-1647164553.mp4" added="2022-03-14T05:51:25.237072Z" modified="2022-03-14T05:51:25.237093Z" visited="2022-03-14T05:51:25.237075Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2022-03-14T05:51:25.237083Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mangal/Videos/video-1647164563.mp4" added="2022-03-14T05:51:37.082855Z" modified="2022-03-14T05:51:37.082866Z" visited="2022-03-14T05:51:37.082857Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2022-03-14T05:51:37.082861Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mangal/Pictures/Screenshot%20from%202022-03-14%2011-54-55.png" added="2022-03-14T06:10:05.564488Z" modified="2022-03-14T06:10:05.564497Z" visited="2022-03-14T06:10:05.564490Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNOME Screenshot" exec="&apos;brave %u&apos;" modified="2022-03-14T06:10:05.564493Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mangal/Pictures/Screenshot%20from%202022-03-14%2018-11-35.png" added="2022-03-14T12:26:52.251576Z" modified="2022-03-14T12:33:46.985509Z" visited="2022-03-14T12:26:52.251578Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNOME Screenshot" exec="&apos;brave %u&apos;" modified="2022-03-14T12:26:52.251592Z" count="1"/>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2022-03-14T12:33:46.985499Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mangal/Pictures/Screenshot%20from%202022-03-14%2018-12-01.png" added="2022-03-14T12:27:08.678148Z" modified="2022-03-14T12:27:08.678160Z" visited="2022-03-14T12:27:08.678151Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNOME Screenshot" exec="&apos;brave %u&apos;" modified="2022-03-14T12:27:08.678156Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mangal/Videos/Edited/CLI%20Youtube%20Client%20For%20linux%20%5B%20Pipe-viewer%20%5D%20.mp4" added="2022-03-14T12:32:32.880500Z" modified="2022-03-14T12:32:32.880511Z" visited="2022-03-14T12:32:32.880502Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2022-03-14T12:32:32.880506Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mangal/Pictures/English%20HW/2/275742284_998658147671730_1878617495965177683_n.jpg" added="2022-03-14T16:02:46.025071Z" modified="2022-03-14T16:02:46.025081Z" visited="2022-03-14T16:02:46.025074Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2022-03-14T16:02:46.025077Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mangal/Pictures/English%20HW/2/275625370_328047869294771_7586555881951066673_n.jpg" added="2022-03-14T16:03:09.426553Z" modified="2022-03-14T16:03:09.426572Z" visited="2022-03-14T16:03:09.426556Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2022-03-14T16:03:09.426564Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mangal/Pictures/English%20HW/2/275522913_1325942474556305_2684207387053997845_n.jpg" added="2022-03-14T16:03:16.338200Z" modified="2022-03-14T16:03:16.338213Z" visited="2022-03-14T16:03:16.338202Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2022-03-14T16:03:16.338208Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mangal/Pictures/English%20HW/2/275649413_297457695791552_980763052167864609_n.jpg" added="2022-03-14T16:03:23.717384Z" modified="2022-03-14T16:03:23.717394Z" visited="2022-03-14T16:03:23.717386Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2022-03-14T16:03:23.717390Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mangal/Pictures/English%20HW/2/275521198_505534527893167_1379543559612663444_n.jpg" added="2022-03-14T16:04:07.547997Z" modified="2022-03-14T16:04:07.548016Z" visited="2022-03-14T16:04:07.547999Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2022-03-14T16:04:07.548008Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mangal/Pictures/English%20HW/2/275676169_357990339659176_5937927445105792000_n.jpg" added="2022-03-14T16:04:14.763972Z" modified="2022-03-14T16:04:14.763983Z" visited="2022-03-14T16:04:14.763974Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2022-03-14T16:04:14.763978Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mangal/Pictures/Screenshot%20from%202022-03-15%2014-32-27.png" added="2022-03-15T08:47:47.923042Z" modified="2022-03-15T08:47:47.923051Z" visited="2022-03-15T08:47:47.923044Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNOME Screenshot" exec="&apos;brave %u&apos;" modified="2022-03-15T08:47:47.923047Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mangal/Pictures/Screenshot%20from%202022-03-15%2014-32-56.png" added="2022-03-15T08:48:02.578230Z" modified="2022-03-15T08:48:02.578239Z" visited="2022-03-15T08:48:02.578232Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNOME Screenshot" exec="&apos;brave %u&apos;" modified="2022-03-15T08:48:02.578236Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mangal/Pictures/wallpapers/35.jpg" added="2022-03-15T22:31:18.626772Z" modified="2022-03-15T22:31:18.626782Z" visited="2022-03-15T22:31:18.626774Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2022-03-15T22:31:18.626778Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mangal/Pictures/wallpapers/36.jpg" added="2022-03-15T22:31:23.105722Z" modified="2022-03-15T22:31:23.105742Z" visited="2022-03-15T22:31:23.105725Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2022-03-15T22:31:23.105732Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mangal/Pictures/wallpapers/37.jpg" added="2022-03-15T22:31:27.628523Z" modified="2022-03-15T22:31:27.628544Z" visited="2022-03-15T22:31:27.628526Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2022-03-15T22:31:27.628534Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mangal/Pictures/wallpapers/38.jpg" added="2022-03-15T22:31:32.715236Z" modified="2022-03-15T22:31:32.715256Z" visited="2022-03-15T22:31:32.715239Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2022-03-15T22:31:32.715246Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mangal/Documents/Linux.pdf" added="2022-03-16T07:45:08.040854Z" modified="2022-03-16T07:45:08.040864Z" visited="2022-03-16T07:45:08.040856Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2022-03-16T07:45:08.040860Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mangal/Pictures/Screenshot_2022-03-16_15-14-40.png" added="2022-03-16T09:29:44.801394Z" modified="2022-03-17T04:24:01.538965Z" visited="2022-03-16T09:29:44.801396Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="xfce4-screenshooter" exec="&apos;xfce4-screenshooter %u&apos;" modified="2022-03-16T09:29:44.801398Z" count="1"/>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2022-03-17T04:24:01.538958Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mangal/Pictures/Account/275682071_650938226138324_5428315311017221611_n.jpg" added="2022-03-16T11:54:53.928233Z" modified="2022-03-16T11:54:53.928243Z" visited="2022-03-16T11:54:53.928236Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2022-03-16T11:54:53.928239Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mangal/Pictures/Account/275905218_3151071325166237_1435141129004340620_n.jpg" added="2022-03-16T11:59:18.128656Z" modified="2022-03-16T11:59:18.128666Z" visited="2022-03-16T11:59:18.128658Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2022-03-16T11:59:18.128662Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mangal/Pictures/Account/275663525_3057599554570333_8163830530733376302_n.jpg" added="2022-03-16T12:38:58.077446Z" modified="2022-03-16T12:38:58.077459Z" visited="2022-03-16T12:38:58.077448Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2022-03-16T12:38:58.077452Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mangal/Pictures/Screenshot_2022-03-17_10-06-10.png" added="2022-03-17T04:21:13.593351Z" modified="2022-03-17T04:21:28.743472Z" visited="2022-03-17T04:21:13.593353Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="xfce4-screenshooter" exec="&apos;xfce4-screenshooter %u&apos;" modified="2022-03-17T04:21:13.593356Z" count="1"/>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2022-03-17T04:21:28.743466Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mangal/Downloads/cacert.der" added="2022-03-17T23:12:26.826632Z" modified="2022-03-17T23:13:07.022802Z" visited="2022-03-17T23:12:26.826635Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-x509-ca-cert"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2022-03-17T23:13:07.022796Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mangal/Pictures/Screenshot_2022-03-18_06-54-49.png" added="2022-03-18T01:09:53.229490Z" modified="2022-03-18T01:09:53.229501Z" visited="2022-03-18T01:09:53.229492Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="xfce4-screenshooter" exec="&apos;xfce4-screenshooter %u&apos;" modified="2022-03-18T01:09:53.229497Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mangal/Pictures/Screenshot_2022-03-18_06-56-58.png" added="2022-03-18T01:12:02.444111Z" modified="2022-03-18T01:13:39.182299Z" visited="2022-03-18T01:12:02.444113Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="xfce4-screenshooter" exec="&apos;xfce4-screenshooter %u&apos;" modified="2022-03-18T01:12:02.444117Z" count="1"/>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2022-03-18T01:13:39.182293Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mangal/Pictures/Screenshot_2022-03-18_09-22-12.png" added="2022-03-18T03:37:17.955854Z" modified="2022-03-18T03:37:17.955863Z" visited="2022-03-18T03:37:17.955856Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="xfce4-screenshooter" exec="&apos;xfce4-screenshooter %u&apos;" modified="2022-03-18T03:37:17.955859Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mangal/Pictures/275716107_1100799567156048_574974788432617248_n.jpg" added="2022-03-18T10:09:46.008134Z" modified="2022-03-18T10:09:46.008151Z" visited="2022-03-18T10:09:46.008136Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2022-03-18T10:09:46.008144Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mangal/Downloads/lab_TheLinuxGuy001.ovpn" added="2022-03-18T10:16:59.098734Z" modified="2022-03-18T10:16:59.098749Z" visited="2022-03-18T10:16:59.098737Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2022-03-18T10:16:59.098742Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mangal/Downloads/catchv1.0.apk" added="2022-03-18T10:41:00.071334Z" modified="2022-03-18T10:41:00.071344Z" visited="2022-03-18T10:41:00.071336Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.android.package-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2022-03-18T10:41:00.071340Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mangal/Downloads/wallpapers.zip" added="2022-03-18T14:45:41.517890Z" modified="2022-03-18T14:45:41.517908Z" visited="2022-03-18T14:45:41.517892Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2022-03-18T14:45:41.517899Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mangal/Downloads/dotfiles-master-.config-qtile.zip" added="2022-03-19T00:27:32.953420Z" modified="2022-03-19T00:27:32.953436Z" visited="2022-03-19T00:27:32.953422Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2022-03-19T00:27:32.953428Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mangal/Downloads/volume-up-interface-symbol.png" added="2022-03-19T01:19:14.295627Z" modified="2022-03-19T01:19:14.295642Z" visited="2022-03-19T01:19:14.295629Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2022-03-19T01:19:14.295635Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mangal/Pictures/Screenshot_2022-03-19_07-09-11.png" added="2022-03-19T01:24:14.731101Z" modified="2022-03-19T01:24:14.731115Z" visited="2022-03-19T01:24:14.731104Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="xfce4-screenshooter" exec="&apos;xfce4-screenshooter %u&apos;" modified="2022-03-19T01:24:14.731109Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mangal/Downloads/qtile.zip" added="2022-03-19T02:07:56.329287Z" modified="2022-03-19T02:07:56.329298Z" visited="2022-03-19T02:07:56.329289Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2022-03-19T02:07:56.329293Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mangal/.config/qtile/config.py" added="2022-03-19T02:10:12.763673Z" modified="2022-03-19T02:10:12.763682Z" visited="2022-03-19T02:10:12.763675Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;subl %u&apos;" modified="2022-03-19T02:10:12.763678Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mangal/Pictures/Screenshot_2022-03-19_11-26-55.png" added="2022-03-19T05:42:00.886429Z" modified="2022-03-19T05:42:11.031667Z" visited="2022-03-19T05:42:00.886431Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="xfce4-screenshooter" exec="&apos;xfce4-screenshooter %u&apos;" modified="2022-03-19T05:42:00.886437Z" count="1"/>
+          <bookmark:application name="electron" exec="&apos;electron %u&apos;" modified="2022-03-19T05:42:11.031660Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mangal/Pictures/SocialHW/275603690_1165780700896498_4700033644014341329_n.jpg" added="2022-03-19T09:28:17.602391Z" modified="2022-03-19T09:28:17.602406Z" visited="2022-03-19T09:28:17.602393Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2022-03-19T09:28:17.602399Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mangal/Pictures/SocialHW/275676872_675379320326974_4801563779925069919_n.jpg" added="2022-03-19T09:28:26.900215Z" modified="2022-03-19T09:28:26.900226Z" visited="2022-03-19T09:28:26.900217Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2022-03-19T09:28:26.900221Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mangal/Pictures/SocialHW/%5C.jpg" added="2022-03-19T09:28:35.057900Z" modified="2022-03-19T09:28:35.057909Z" visited="2022-03-19T09:28:35.057902Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2022-03-19T09:28:35.057906Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mangal/Pictures/SocialHW/274848231_1677394155944682_3919017497782991516_n.jpg" added="2022-03-19T09:28:43.076122Z" modified="2022-03-19T09:28:43.076136Z" visited="2022-03-19T09:28:43.076125Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2022-03-19T09:28:43.076129Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mangal/Pictures/SocialHW/275863846_494395635606963_8869507153272374642_n.jpg" added="2022-03-19T09:28:51.841931Z" modified="2022-03-19T09:28:51.841946Z" visited="2022-03-19T09:28:51.841933Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2022-03-19T09:28:51.841940Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mangal/Pictures/SocialHW/276016424_338298891670065_2867914249270443808_n.jpg" added="2022-03-19T09:28:59.933310Z" modified="2022-03-19T09:28:59.933323Z" visited="2022-03-19T09:28:59.933313Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2022-03-19T09:28:59.933318Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mangal/Pictures/SocialHW/275203774_382091013472823_8037987171613168594_n.jpg" added="2022-03-19T09:29:08.076917Z" modified="2022-03-19T09:29:08.076930Z" visited="2022-03-19T09:29:08.076919Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2022-03-19T09:29:08.076925Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mangal/Pictures/SocialHW/276078782_726517808514487_7691491691487490985_n.jpg" added="2022-03-19T09:29:15.027632Z" modified="2022-03-19T09:29:15.027644Z" visited="2022-03-19T09:29:15.027635Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2022-03-19T09:29:15.027639Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mangal/Downloads/viber.AppImage" added="2022-03-19T12:38:33.129811Z" modified="2022-03-19T12:38:33.129821Z" visited="2022-03-19T12:38:33.129813Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.appimage"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2022-03-19T12:38:33.129816Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mangal/Pictures/viber.png" added="2022-03-19T12:50:47.023494Z" modified="2022-03-19T12:50:57.374180Z" visited="2022-03-19T12:50:47.023496Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="xfce4-screenshooter" exec="&apos;xfce4-screenshooter %u&apos;" modified="2022-03-19T12:50:47.023503Z" count="1"/>
+          <bookmark:application name="electron" exec="&apos;electron %u&apos;" modified="2022-03-19T12:50:57.374173Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mangal/Pictures/wallpapers/nord/kv9zp2jakht61.jpg" added="2022-03-19T15:19:29.070560Z" modified="2022-03-19T15:19:29.070570Z" visited="2022-03-19T15:19:29.070562Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2022-03-19T15:19:29.070565Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mangal/Pictures/wallpapers/nord/oxytocin.png" added="2022-03-19T15:21:10.686008Z" modified="2022-03-19T15:21:10.686017Z" visited="2022-03-19T15:21:10.686010Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2022-03-19T15:21:10.686013Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mangal/Downloads/MangalLopchan.ovpn" added="2022-03-19T17:40:29.909192Z" modified="2022-03-19T17:40:29.909202Z" visited="2022-03-19T17:40:29.909194Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2022-03-19T17:40:29.909198Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mangal/Downloads/Fedora-Workstation-Live-x86_64-35-1.2.iso" added="2022-03-20T08:08:56.516340Z" modified="2022-03-20T08:08:56.516352Z" visited="2022-03-20T08:08:56.516342Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-cd-image"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2022-03-20T08:08:56.516347Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mangal/Pictures/powermenu.png" added="2022-03-20T10:57:23.143126Z" modified="2022-03-20T10:57:23.143134Z" visited="2022-03-20T10:57:23.143128Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="xfce4-screenshooter" exec="&apos;xfce4-screenshooter %u&apos;" modified="2022-03-20T10:57:23.143130Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

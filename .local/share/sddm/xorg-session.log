@@ -1,0 +1,76 @@
+xrdb:  "Xft.autohint" on line 65 overrides entry on line 59
+xrdb:  "Xft.lcdfilter" on line 66 overrides entry on line 60
+xrdb:  "Xft.hintstyle" on line 67 overrides entry on line 61
+xrdb:  "Xft.hinting" on line 68 overrides entry on line 62
+xrdb:  "Xft.antialias" on line 69 overrides entry on line 63
+xrdb:  "Xft.rgba" on line 70 overrides entry on line 64
+xrdb:  "Xft.autohint" on line 65 overrides entry on line 59
+xrdb:  "Xft.lcdfilter" on line 66 overrides entry on line 60
+xrdb:  "Xft.hintstyle" on line 67 overrides entry on line 61
+xrdb:  "Xft.hinting" on line 68 overrides entry on line 62
+xrdb:  "Xft.antialias" on line 69 overrides entry on line 63
+xrdb:  "Xft.rgba" on line 70 overrides entry on line 64
+WARNING: Setting geometry in section global doesn't exist
+WARNING: Section shortcuts is deprecated.
+Settings in the shortcuts sections have been moved to the global section.
+Alternatively you can bind shortcuts in you window manager to dunstctl commands. For that, see the manual for dunstctl.
+Ignoring this section.
+
+(nitrogen:9913): Gtk-WARNING **: 19:54:10.281: Unable to locate theme engine in module_path: "murrine",
+
+(nitrogen:9913): Gtk-WARNING **: 19:54:10.281: Unable to locate theme engine in module_path: "murrine",
+
+(nitrogen:9913): Gtk-WARNING **: 19:54:10.282: Unable to locate theme engine in module_path: "murrine",
+
+(nitrogen:9913): Gtk-WARNING **: 19:54:10.282: Unable to locate theme engine in module_path: "murrine",
+
+(nitrogen:9913): Gtk-WARNING **: 19:54:10.282: Unable to locate theme engine in module_path: "murrine",
+
+(nitrogen:9913): Gtk-WARNING **: 19:54:10.372: Unable to locate theme engine in module_path: "murrine",
+
+(nitrogen:9913): Gtk-WARNING **: 19:54:10.372: Unable to locate theme engine in module_path: "murrine",
+
+(nitrogen:9913): Gtk-WARNING **: 19:54:10.374: Unable to locate theme engine in module_path: "murrine",
+
+(nitrogen:9913): Gtk-WARNING **: 19:54:10.374: Unable to locate theme engine in module_path: "murrine",
+
+(nitrogen:9913): Gtk-WARNING **: 19:54:10.374: Unable to locate theme engine in module_path: "murrine",
+
+(lxpolkit:9917): Gtk-WARNING **: 19:54:10.422: Unable to locate theme engine in module_path: "murrine",
+
+(lxpolkit:9917): Gtk-WARNING **: 19:54:10.423: Unable to locate theme engine in module_path: "murrine",
+
+(lxpolkit:9917): Gtk-WARNING **: 19:54:10.424: Unable to locate theme engine in module_path: "murrine",
+
+(lxpolkit:9917): Gtk-WARNING **: 19:54:10.424: Unable to locate theme engine in module_path: "murrine",
+
+(lxpolkit:9917): Gtk-WARNING **: 19:54:10.424: Unable to locate theme engine in module_path: "murrine",
+polybar|notice:  Parsing config file: /home/unixporn/.config/polybar/current.ini
+polybar|error: Undefined bar: log
+polybar|notice:  Parsing config file: /home/unixporn/.config/polybar/current.ini
+polybar|warn:  The config parameter 'settings.throttle-input-for' is deprecated, it will be removed in the future. Please remove it from your config
+polybar|notice:  Parsing config file: /home/unixporn/.config/polybar/current.ini
+polybar|error: Undefined bar: primary
+polybar|notice:  Parsing config file: /home/unixporn/.config/polybar/workspace.ini
+polybar|notice:  Parsing config file: /home/unixporn/.config/polybar/current.ini
+polybar|warn:  The config parameter 'settings.throttle-input-for' is deprecated, it will be removed in the future. Please remove it from your config
+polybar|warn:  The config parameter 'settings.throttle-input-for' is deprecated, it will be removed in the future. Please remove it from your config
+polybar|notice:  Loaded font "Iosevka Nerd Font:size=13" (name=Iosevka, offset=3, file=/usr/share/fonts/Iosevka Nerd Font Complete.ttf)
+polybar|notice:  Loaded font "Iosevka Nerd Font:bold:size=24" (name=Iosevka, offset=2, file=/usr/share/fonts/Iosevka Bold Nerd Font Complete.ttf)
+polybar|notice:  Loaded font "Iosevka Nerd Font:size=22" (name=Iosevka, offset=6, file=/usr/share/fonts/Iosevka Nerd Font Complete.ttf)
+polybar|notice:  Loaded font "Source Code Pro:size=10" (name=Source Code Pro, offset=3, file=/usr/share/fonts/adobe-source-code-pro/SourceCodePro-Regular.otf)
+polybar|notice:  Loaded font "Montserrat Medium:style=Medium:size=12" (name=DejaVu Sans, offset=3, file=/usr/share/fonts/TTF/DejaVuSans.ttf)
+polybar|notice:  Loaded font "Helvetica Rounded:style=Bold:size=10.5" (name=Helvetica Rounded, offset=3, file=/usr/share/fonts/truetype/helvetica_rounded_bold_5871d05ead8de.otf)
+polybar|notice:  Loaded font "Hurmit Nerd Font Mono:style=medium:pixelsize=17" (name=Hurmit Nerd Font Mono, offset=3, file=/usr/share/fonts/truetype/HurmitNerdFontComplete_Mono.otf)
+polybar|notice:  Loaded font "Iosevka Nerd Font:size=18" (name=Iosevka, offset=5, file=/usr/share/fonts/Iosevka Nerd Font Complete.ttf)
+polybar|notice:  Loaded font "Iosevka Nerd Font:size=12" (name=Iosevka, offset=2, file=/usr/share/fonts/Iosevka Nerd Font Complete.ttf)
+polybar|notice:  Loaded font "Iosevka Nerd Font:bold:size=24" (name=Iosevka, offset=2, file=/usr/share/fonts/Iosevka Bold Nerd Font Complete.ttf)
+polybar|notice:  Loaded font "Iosevka Nerd Font:size=12" (name=Iosevka, offset=3, file=/usr/share/fonts/Iosevka Nerd Font Complete.ttf)
+polybar|notice:  Loaded font "Iosevka Nerd Font:bold:size=24" (name=Iosevka, offset=2, file=/usr/share/fonts/Iosevka Bold Nerd Font Complete.ttf)
+polybar|notice:  Loaded font "Iosevka Nerd Font:size=22" (name=Iosevka, offset=6, file=/usr/share/fonts/Iosevka Nerd Font Complete.ttf)
+polybar|notice:  Loaded font "Source Code Pro:size=10" (name=Source Code Pro, offset=3, file=/usr/share/fonts/adobe-source-code-pro/SourceCodePro-Regular.otf)
+polybar|notice:  Loaded font "Montserrat Medium:style=Medium:size=12" (name=DejaVu Sans, offset=3, file=/usr/share/fonts/TTF/DejaVuSans.ttf)
+polybar|notice:  Loaded font "Helvetica Rounded:style=Bold:size=10.5" (name=Helvetica Rounded, offset=3, file=/usr/share/fonts/truetype/helvetica_rounded_bold_5871d05ead8de.otf)
+polybar|notice:  Loaded font "Hurmit Nerd Font Mono:style=medium:pixelsize=17" (name=Hurmit Nerd Font Mono, offset=3, file=/usr/share/fonts/truetype/HurmitNerdFontComplete_Mono.otf)
+[066 19:54:11.572344] Ignoring invalid config line: [colors]
+polybar|notice:  Termination signal received, shutting down...

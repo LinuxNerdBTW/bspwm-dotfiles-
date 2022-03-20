@@ -1,0 +1,23 @@
+#!/usr/bin/bash
+result=$(echo "
+Music
+Audio-Visualizer
+ScreenShot
+PENTESTING-LAB
+" | rofi -dmenu -theme ~/.config/rofi/themes/nord/nord_menu.rasi)
+
+if [ $result == "Music" ]
+then 
+  kitty -e pipe-viewer -n --autoplay
+elif [ $result == "Audio-Visualizer" ]
+then 
+  kitty -e cava 
+elif [ $result == "ScreenShot" ]
+then 
+  xfce4-screenshooter
+elif [ $result == "PENTESTING-LAB" ]
+then 
+  kitty -e $HOME/bin/lab start_
+else
+  echo "!!!!!!!"
+fi

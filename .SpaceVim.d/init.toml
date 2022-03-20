@@ -1,0 +1,149 @@
+#=============================================================================
+# dark_powered.toml --- dark powered configuration example for SpaceVim
+# Copyright (c) 2016-2022 Wang Shidong & Contributors
+# Author: Wang Shidong < wsdjeg at 163.com >
+# URL: https://spacevim.org
+# License: GPLv3
+#=============================================================================
+
+# All SpaceVim option below [option] section
+[options]
+    # set spacevim theme. by default colorscheme layer is not loaded,
+    # if you want to use more colorscheme, please load the colorscheme
+    # layer
+    colorscheme = "onedark"
+    colorscheme_bg = "dark"
+    # Disable guicolors in basic mode, many terminal do not support 24bit
+    # true colors
+    enable_guicolors = true
+    # Disable statusline separator, if you want to use other value, please
+    # install nerd fonts
+    statusline_separator = "arrow"
+    statusline_iseparator = "arrow"
+    buffer_index_type = 4
+    enable_tabline_filetype_icon = true
+    enable_statusline_mode = false
+
+# Enable autocomplete layer
+[[layers]]
+name = 'autocomplete'
+auto_completion_return_key_behavior = "complete"
+auto_completion_tab_key_behavior = "smart"
+
+[[layers]]
+name = 'shell'
+default_position = 'top'
+default_height = 30
+## -- SpaceVim layer list start
+
+[[layers]]
+  name = "VersionControl"
+
+[[layers]]
+  name = "autocomplete"
+
+
+[[layers]]
+  name = "colorscheme"
+
+[[layers]]
+  name = "core#banner"
+
+[[layers]]
+  name = "core#statusline"
+
+[[layers]]
+  name = "core#tabline"
+
+[[layers]]
+  name = "core"
+
+[[layers]]
+  name = "cscope"
+
+[[layers]]
+  name = "ctrlp"
+
+[[layers]]
+  name = "debug"
+
+[[layers]]
+  name = "default"
+
+[[layers]]
+  name = "denite"
+
+[[layers]]
+  name = "edit"
+
+[[layers]]
+  name = "floobits"
+
+[[layers]]
+  name = "format"
+
+[[layers]]
+  name = "fzf"
+
+
+[[layers]]
+  name = "lang#asciidoc"
+
+[[layers]]
+  name = "lang#autohotkey"
+
+[[layers]]
+  name = "lang#c"
+
+[[layers]]
+  name = "lang#dockerfile"
+
+[[layers]]
+  name = "lang#haskell"
+
+[[layers]]
+  name = "lang#html"
+
+[[layers]]
+  name = "lang#lua"
+
+[[layers]]
+  name = "lang#markdown"
+
+[[layers]]
+  name = "lang#perl"
+
+[[layers]]
+  name = "lang#php"
+
+[[layers]]
+  name = "lang#python"
+
+[[layers]]
+  name = "lang#sh"
+
+[[layers]]
+  name = "lang#vim"
+
+[[layers]]
+  name = "shell"
+
+[[layers]]
+  name = "sudo"
+
+[[layers]]
+  name = "tags"
+
+[[layers]]
+  name = "tmux"
+
+[[layers]]
+  name = "tools#dash"
+
+[[layers]]
+  name = "tools"
+
+[[layers]]
+  name = "ui"
+
+## -- SpaceVim layer list end
