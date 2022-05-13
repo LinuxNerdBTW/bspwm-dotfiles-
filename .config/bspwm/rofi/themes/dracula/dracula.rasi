@@ -1,0 +1,103 @@
+
+
+configuration {
+  font: "JetBrainsMono Nerd Font Medium 10";
+  terminal: "termite";
+  drun-display-format: "{icon}{name}";
+  drun {
+    display-name: "גּ Apps";
+  }
+
+  emoji {
+    display-name: "👉🏻";
+  }
+  window {
+    display-name: "缾";
+  }
+
+  timeout {
+    delay: 30;
+    action: "kb-cancel";
+  }
+}
+
+* {
+  border: 0;
+  margin: 0;
+  padding: 0;
+  spacing: 0;
+  Background: #282a36;	
+  CurrentLine: #44475a;	
+  Foreground: #f8f8f2;	
+  Comment: #6272a4;	
+  Cyan: #8be9fd;	
+  Green: #50fa7b;	
+  Orange: #ffb86c;	
+  Pink: #ff79c6;	
+  Purple: #bd93f9;
+  Red: #ff5555;
+  blue: #6272a4;
+  purple: #bd93f9;
+  cyan: #8be9fd;
+  yellog: #f1fa8c;
+  background-color: @Background;
+  text-color: @Pink;
+}
+
+window {
+ height: 300px;
+ width: 450px;
+ border: 1px 1px 1px 1px;
+ border-radius: 5px;
+ border-color: @Pink;
+ border-radius: 4px;
+ padding: 2% 2%;
+}
+
+mainbox {
+  children: [inputbar, listview];
+  background-color: @Background;
+}
+
+inputbar {
+  background-color: @Background;
+  children: [prompt, entry];
+  padding: 1px 1px;
+
+}
+
+
+entry {
+  background-color: inherit;
+  padding: 10px;
+}
+
+prompt {
+  background-color: inherit;
+  padding: 12px;
+}
+
+listview {
+  scrollbar: false;
+
+}
+
+element {
+  children: [element-icon,element-text];
+  text-color: @Purple;
+  padding: 5px 5px;
+}
+
+element-icon {
+  padding: 5px 5px;
+}
+
+element-text {
+  padding: 5px 5px;
+  text-color: inherit;
+}
+
+element selected {
+  text-color: @Pink;
+}
+

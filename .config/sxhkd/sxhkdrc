@@ -1,33 +1,43 @@
 ##----------------------------BSPWM-KEYBINDINGS---------------------------##
 
-##---------- Rofi Launcher & Menus ----------##
-#super + {r,a,w,e}
-#    rofi -show {run,drun,window,emoji} -theme $HOME/.config/bspwm/rofi-collection/nord/nord.rasi
 
-# program launcher
+##############------------ROFI-Launchers-----------------#################
 super + a
-	rofi -modi emoji,drun,run,window -show drun -theme $HOME/.config/rofi/themes/nord/nord.rasi -sidebar-mode	
+	rofi -show drun -modi drun -theme $HOME/.config/bspwm/rofi/themes/dracula/dracula.rasi -modi drun
 
-ctrl + alt + h
-	kitty -e htop
+super + e
+	rofi -show emoji -theme $HOME/.config/bspwm/rofi/themes/onedark/onedark.rasi -modi emoji
 
-##---------- Applications ----------##
+alt + Tab
+	rofi -show window -theme $HOME/.config/bspwm/rofi/themes/onedark/onedark_window.rasi -modi window
+super + r 
+	rofi -show run -theme $HOME/.config/bspwm/rofi/themes/onedark/onedark.rasi -modi run
 
-# Launch Programs
-super + x
-  xfce4-terminal
+
+
+###############----------Launching Applications ----------#################
+ctrl + alt + {h,v,b}
+	termite_float -e {htop,vim,btop}
+
 super + {c,b,s,v,n,Return}
 	{code,brave,thunar,pavucontrol,$HOME/bin/rofi-network-manager/rofi-network-manager.sh,kitty}
+
+super + shift + Return
+	termite_float
+
+##############------------cli file manager ---------------#################
+super + shift + s
+	 termite_float -e ranger
 
 ##---------- System ----------##
 
 # Take a screenshot
 Print
-	xfce4-screenshooter
+	flameshot gui
 	
 # Take a screenshot in 5 second
 alt + Print	
-	scrot -d 3 'Screenshot_%Y-%m-%d-%S_$wx$h.png' -e 'mv $f $$(xdg-user-dir PICTURES) ; viewnior $$(xdg-user-dir PICTURES)/$f'
+	scrot -d 3 'Screenshot_%Y-%m-%d-%S_$wx$h.png' -e 'mv $f $$(xdg-user-dir PICTURES)'
 
 # Brighness control
 XF86MonBrightness{Up,Down}
@@ -40,9 +50,6 @@ XF86Audio{RaiseVolume,LowerVolume}
 XF86AudioMute
 	amixer set Master toggle
 	
-# Music control
-super + m
-  $HOME/bin/menu
 
 ##---------- Bspwm ----------##
 
@@ -89,6 +96,7 @@ super + f
 super + {p,t}
     bspc node -t {pseudo_tiled,tiled}
 
+
 # Set the node flags
 super + ctrl + {m,x,y,z}
 	bspc node -g {marked,locked,sticky,private}
@@ -98,8 +106,10 @@ super + {_,shift + }{Left,Down,Up,Right}
 	bspc node -{f,s} {west,south,north,east}
 
 # Change focus to next window, including floating window
-alt + {_,shift + }Tab
-	bspc node -f {next.local,prev.local}
+#alt + {_,shift + }Tab
+#	bspc node -f {next.local,prev.local}
+
+
 
 # Switch workspace
 ctrl + {Left,Right}
@@ -129,11 +139,6 @@ alt + shift + {Left,Down,Up,Right}
 # Hide/Unhide Window
 super + shift + i
 	winmask		
-
-# Keybinding for launching openvpn 
-
-super + shift + o
-	$HOME/bin/select_vpn
 
 alt + F4
 	$HOME/bin/powermenu
